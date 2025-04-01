@@ -1,5 +1,5 @@
 #pytorch
 pytorch/pytorch:1.13.1-cuda11.6-cudnn8-devel
 
-#langgraph
+#langgraph 20250401
 langchain/langgraph-api:3.11
