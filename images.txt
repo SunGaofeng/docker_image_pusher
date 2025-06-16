@@ -3,3 +3,14 @@ pytorch/pytorch:1.13.1-cuda11.6-cudnn8-devel
 
 #langgraph 20250401
 langchain/langgraph-api:3.11
+
+# this is for ragflow
+infiniflow/ragflow:v0.19.0-slim
+infiniflow/ragflow:v0.19.0
+elasticsearch:8.11.3
+hub.icert.top/opensearchproject/opensearch:2.19.1
+infiniflow/infinity:v0.6.0-dev3
+infiniflow/sandbox-executor-manager:latest
+mysql:8.0.39
+quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
+valkey/valkey:8
